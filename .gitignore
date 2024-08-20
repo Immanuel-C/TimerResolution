@@ -46,7 +46,6 @@
 .ninja_log
 build.ninja
 *.cmake
-CMakeLists.txt
 CMakeCache.txt
 compile_commands.json
 CMakeFiles
